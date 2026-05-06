@@ -40,3 +40,14 @@ Point 4: x=[0, 2], y=+1  --> Correct (y_hat=1), no update
 Final w = [1.0, 2.0], b = -1.0
 
 Points that caused updates: [2]
+
+
+
+
+
+
+
+
+
+
+## **Output Screenshot in Issue**
