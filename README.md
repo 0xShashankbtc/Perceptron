@@ -50,4 +50,4 @@ Points that caused updates: [2]
 
 
 
-## **Output Screenshot in Issue**
+## **Output Screenshot in Issues**
